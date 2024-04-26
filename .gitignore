@@ -1,0 +1,25 @@
+# Julia specific
+*.jl~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Compiled files
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Backup files
+*~
+
+# Log files
+*.log
+
+# Directory for user-specific julia package installs
+.julia
